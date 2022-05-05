@@ -1,0 +1,27 @@
+GNU nano 6.3                                              package-lock.json
+
+{
+
+  "name": "node",
+
+  "version": "1.0.0",
+
+  "lockfileVersion": 2,
+
+  "requires": true,
+
+  "packages": {
+
+    "": {
+
+      "name": "node",
+
+      "version": "1.0.0",
+
+      "license": "ISC"
+
+    }
+
+  }
+
+}
